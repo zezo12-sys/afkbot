@@ -24,10 +24,14 @@
       "password": ""
     },
 
-    "anti-afk": {
-      "enabled": true,
-      "sneak": true
-    },
+   "anti-afk": {
+  "enabled": true,
+  "sneak": true,
+  "jump": true,
+  "rotate": true,
+  "actions-delay": 15
+}
+
 
     "chat-messages": {
       "enabled": true,
